@@ -79,7 +79,7 @@ static uint16_t len;
 
 /* SLS define */
 static 	led_struct_t led_db;
-//static struct led_struct_t *led_db_ptr = &led_db;
+
 
 static 	gw_struct_t gw_db;
 static 	net_struct_t net_db;
